@@ -1,0 +1,3 @@
+logLevel: debug
+logStructured: false
+dbSetup: false
